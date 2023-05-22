@@ -70,8 +70,10 @@
 <p class="indent">
 	There was a little more art displayed but I don't really have anything to say about it, exceptthat
 	some of it was the cliché of men stuck on their phones / social media machines &mdash; which I
-	have seen again and again (take a look at <a href="https://www.reddit.com/r/PhonesAreBad/"
-		>r/phonesarebad</a
+	have seen again and again (take a look at <a
+		href="https://www.reddit.com/r/PhonesAreBad/"
+		target="_blank"
+		rel="noopener noreferrer nofollow">r/phonesarebad</a
 	>). Now for the music, there were 3 different stages with a band / DJ's on each. I was able to
 	listen to the end of a Rock band that played covers, it was good. I then went to the more techno /
 	electronic music. This one was especially nice because I feltlike there were more local people. I
