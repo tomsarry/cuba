@@ -1,0 +1,60 @@
+<svelte:head>
+	<title>Cuba</title>
+	<meta name="description" content="Cuba" />
+</svelte:head>
+
+<h1>Cuba</h1>
+
+<p class="indent">
+	I tried to compile here a list of anecdotes that happened to me during my two-week vacation in
+	Cuba. Most of the work displayed here is given as-is, with very few edits. Some sentences were
+	adjusted a bit because they didn't mean anything but the rest is <i>raw</i>: I am no writer so the
+	format and wording will not be the best. However, I wanted to give a glimpse of how I experienced
+	this very first trip on my own.
+</p>
+
+<div class="articles">
+	<ul>
+		<li class="article">
+			<a href="/fabrica" class="article-link">Fabrica</a>
+			<span class="article-info"> La Havana &middot; 30/04/2023 &middot; 10pm </span>
+			<p class="article-preview">
+				I explored a famous night club during my second night (and birthday) in Cuba: The Cuban Art
+				Factory (Fabrica de Arte), which is museum with multiple music scenes.
+			</p>
+		</li>
+
+		<!-- <li class="article">
+      <a href="/firefly">Firefly</a>
+      <span class="article-info">
+        Matanzas &middot; 04/05/2023 &middot; 9pm
+      </span>
+    </li> -->
+	</ul>
+</div>
+
+<style>
+	h1 {
+		text-align: center;
+		font-size: 2.5em;
+	}
+
+	ul {
+		list-style: none;
+		padding: 0;
+	}
+
+	li {
+		margin-bottom: 1em;
+	}
+
+	.article {
+		display: flex;
+		flex-direction: column;
+		align-items: start;
+	}
+
+	a:hover {
+		opacity: 0.8;
+	}
+</style>
