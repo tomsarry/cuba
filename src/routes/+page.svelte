@@ -28,8 +28,8 @@
 			<a href="/doble-taxi" class="article-link">Doble Taxi</a>
 			<span class="article-info"> La Havana &middot; 01/05/2023 &middot; 5:30am</span>
 			<p class="article-preview">
-				I explored a famous night club during my second night (and birthday) in Cuba: The Cuban Art
-				Factory (Fabrica de Arte), which is museum with multiple music scenes.
+				I got into a bit of trouble finding the bus station to go to Vi&ntilde;ales and was
+				forced to go in a three-wheeled taxi.
 			</p>
 		</li>
 
