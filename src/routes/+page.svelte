@@ -17,7 +17,16 @@
 	<ul>
 		<li class="article">
 			<a href="/fabrica" class="article-link">Fabrica</a>
-			<span class="article-info"> La Havana &middot; 30/04/2023 &middot; 10pm </span>
+			<span class="article-info"> La Havana &middot; 30/04/2023 &middot; 10pm</span>
+			<p class="article-preview">
+				I explored a famous night club during my second night (and birthday) in Cuba: The Cuban Art
+				Factory (Fabrica de Arte), which is museum with multiple music scenes.
+			</p>
+		</li>
+
+		<li class="article">
+			<a href="/doble-taxi" class="article-link">Doble Taxi</a>
+			<span class="article-info"> La Havana &middot; 01/05/2023 &middot; 5:30am</span>
 			<p class="article-preview">
 				I explored a famous night club during my second night (and birthday) in Cuba: The Cuban Art
 				Factory (Fabrica de Arte), which is museum with multiple music scenes.

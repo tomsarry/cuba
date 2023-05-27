@@ -24,6 +24,16 @@ a {
 	color: inherit;
 }
 
+.sup {
+	color: initial;
+}
+
+hr {
+	height: 2px;
+	border: none;
+	background-color: var(--unfocused-color);
+}
+
 .article-header {
 	margin-top: 2em;
 }
