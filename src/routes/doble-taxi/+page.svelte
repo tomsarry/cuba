@@ -25,12 +25,12 @@
 <p class="indent">
 	I hand her my phone for fer to show me on google maps. Cellular data of course didn't work, it's
 	Cuba after all... She writes down the address I need to be in 5 minutes <sup
-		><a href="#time">(1)</a></sup
+		><a href="#1">(1)</a></sup
 	>, not knowing if it's at a walking distance, or even which direction to take. I therefore take my
 	large bags and head outside where I ask a local to show me the directions to there. I didn't
 	understand how far it was but he called a friend of his from accross the room &mdash; a taxi
 	driver (taxi is a stretch, it looked more like the indian tuk-tuk: a tricycle with a motor). After
-	negociating a bit the price (I still paid 1000CUP, only 10.000 left 🙂) we hop in and drive
+	negociating a bit the price (I still paid 1000CUP <sup><a href="#2">(2)</a></sup> , only 10.000 left 🙂) we hop in and drive
 	through the waking Havana. At this point, I was scared that I would not reach again the bus stop
 	so I was more conservative at the time of payment, I made sure (to the best I could) that I was
 	where I was supposed to be. Luckily I soon understood that this was in fact the good bus stop (20
@@ -55,9 +55,9 @@
 
 <h3>Notes</h3>
 <ol>
-	<li id="time">
+	<li id="1">
 		My bus was at 7:30am, and it was 6:25am. I technically still had a little more than an hour to
 		get to the bus station. However it was my first time and I didn't how strict the check in were.
 	</li>
-	<li>1000CUP &approx; 10CAD</li>
+	<li id="2">1000CUP &approx; 10CAD</li>
 </ol>
