@@ -17,7 +17,7 @@
 	<ul>
 		<li class="article">
 			<a href="/fabrica" class="article-link">Fabrica</a>
-			<span class="article-info"> La Havana &middot; 30/04/2023 &middot; 10pm</span>
+			<span class="article-info">La Havana &middot; 30/04/2023 &middot; 10pm</span>
 			<p class="article-preview">
 				I explored a famous night club during my second night (and birthday) in Cuba: The Cuban Art
 				Factory (Fabrica de Arte), which is museum with multiple music scenes.
@@ -26,10 +26,20 @@
 
 		<li class="article">
 			<a href="/doble-taxi" class="article-link">Doble Taxi</a>
-			<span class="article-info"> La Havana &middot; 01/05/2023 &middot; 5:30am</span>
+			<span class="article-info">La Havana &middot; 01/05/2023 &middot; 5:30am</span>
 			<p class="article-preview">
-				I got into a bit of trouble finding the bus station to go to Vi&ntilde;ales and was
-				forced to go in a three-wheeled taxi.
+				I got into a bit of trouble finding the bus station to go to Vi&ntilde;ales and was forced
+				to go in a three-wheeled taxi.
+			</p>
+		</li>
+
+		<li class="article">
+			<a href="/australian-grandpa" class="article-link">Australian Grandpa</a>
+			<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 12:00pm</span>
+			<p class="article-preview">
+				Upon my arrival at my second destination, I meet Antonio, an Australian man at least thrice
+				my age. We start an adventure in the countryside and he tells me about his very impressive
+				travel stories.
 			</p>
 		</li>
 
