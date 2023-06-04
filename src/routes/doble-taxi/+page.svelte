@@ -30,12 +30,12 @@
 	large bags and head outside where I ask a local to show me the directions to there. I didn't
 	understand how far it was but he called a friend of his from accross the room &mdash; a taxi
 	driver (taxi is a stretch, it looked more like the indian tuk-tuk: a tricycle with a motor). After
-	negociating a bit the price (I still paid 1000CUP <sup><a href="#2">(2)</a></sup> , only 10.000 left 🙂) we hop in and drive
-	through the waking Havana. At this point, I was scared that I would not reach again the bus stop
-	so I was more conservative at the time of payment, I made sure (to the best I could) that I was
-	where I was supposed to be. Luckily I soon understood that this was in fact the good bus stop (20
-	minutes away from where the first taxi dropped me off). I was able to check in, drop my bag, wait
-	for the bus and travel to Vi&ntilde;ales, phew.
+	negociating a bit the price (I still paid 1000CUP <sup><a href="#2">(2)</a></sup> , only 10.000 left
+	🙂) we hop in and drive through the waking Havana. At this point, I was scared that I would not reach
+	again the bus stop so I was more conservative at the time of payment, I made sure (to the best I could)
+	that I was where I was supposed to be. Luckily I soon understood that this was in fact the good bus
+	stop (20 minutes away from where the first taxi dropped me off). I was able to check in, drop my bag,
+	wait for the bus and travel to Vi&ntilde;ales, phew.
 </p>
 
 <p class="indent">

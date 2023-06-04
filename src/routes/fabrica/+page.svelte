@@ -84,15 +84,15 @@
 	something really marvellous. All this dancing made me quite thirtsy (it was also quite warm
 	inside), and there were multiple bars inside that would give you drinks and note down the cost of
 	them on a little cardboard sheet they gave us at the entrance, you paid at the end while leaving.
-	However, I had brought exactly enough cash for the taxi and the entrance (2x600CUP taxi and
-	250CUP entrance <sup><a href="#1">(1)</a></sup> ), no drinks for me that night... I am not disappointed though, I don't
-	think I would have been very confortable being drunk in a place I didn't know. We were able to
-	leave the venue, after waiting for about 30 minutes (to pay for the drinks of the other people),
-	and get our taxi back to the hostel. After taking a quick shower, I went to bed at 3:20am, alarm
-	set to 5:30am, nice.
+	However, I had brought exactly enough cash for the taxi and the entrance (2x600CUP taxi and 250CUP
+	entrance <sup><a href="#1">(1)</a></sup> ), no drinks for me that night... I am not disappointed though,
+	I don't think I would have been very confortable being drunk in a place I didn't know. We were able
+	to leave the venue, after waiting for about 30 minutes (to pay for the drinks of the other people),
+	and get our taxi back to the hostel. After taking a quick shower, I went to bed at 3:20am, alarm set
+	to 5:30am, nice.
 </p>
 
-<hr>
+<hr />
 
 <h3>Notes</h3>
 <ol>
