@@ -16,7 +16,11 @@
 <div class="articles">
 	<ul>
 		<li class="article">
-			<a href="/fabrica" class="article-link">Fabrica</a>
+			<div class="header">
+				<a href="/fabrica" class="article-link">Fabrica</a>
+				<span class="last-edited">Last edited: 22/05/23</span>
+			</div>
+
 			<span class="article-info">La Havana &middot; 30/04/2023 &middot; 10pm</span>
 			<p class="article-preview">
 				I explored a famous night club during my second night (and birthday) in Cuba: The Cuban Art
@@ -25,7 +29,11 @@
 		</li>
 
 		<li class="article">
-			<a href="/doble-taxi" class="article-link">Doble Taxi</a>
+			<div class="header">
+				<a href="/doble-taxi" class="article-link">Doble Taxi</a>
+				<span class="last-edited">Last edited: 27/05/23</span>
+
+			</div>
 			<span class="article-info">La Havana &middot; 01/05/2023 &middot; 5:30am</span>
 			<p class="article-preview">
 				I got into a bit of trouble finding the bus station to go to Vi&ntilde;ales and was forced
@@ -34,7 +42,11 @@
 		</li>
 
 		<li class="article">
-			<a href="/australian-grandpa" class="article-link">Australian Grandpa</a>
+			<div class="header">
+				<a href="/australian-grandpa" class="article-link">Australian Grandpa</a>
+				<span class="last-edited">Last edited: 04/06/23</span>
+			</div>
+
 			<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 12:00pm</span>
 			<p class="article-preview">
 				Upon my arrival at my second destination, I meet Antonio, an Australian man at least thrice

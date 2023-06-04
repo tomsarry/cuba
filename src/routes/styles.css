@@ -38,6 +38,19 @@ hr {
 	margin-top: 2em;
 }
 
+.header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+
+.last-edited {
+	font-size: 0.8em;
+	text-align: right;
+}
+
 .article-info,
 figcaption {
 	color: var(--unfocused-color);
