@@ -32,7 +32,6 @@
 			<div class="header">
 				<a href="/doble-taxi" class="article-link">Doble Taxi</a>
 				<span class="last-edited">Last edited: 27/05/23</span>
-
 			</div>
 			<span class="article-info">La Havana &middot; 01/05/2023 &middot; 5:30am</span>
 			<p class="article-preview">
@@ -52,6 +51,19 @@
 				Upon my arrival at my second destination, I meet Antonio, an Australian man at least thrice
 				my age. We start an adventure in the countryside and he tells me about his very impressive
 				travel stories.
+			</p>
+		</li>
+
+		<li class="article">
+			<div class="header">
+				<a href="/cow-viewpoint" class="article-link">Cow Viewpoint</a>
+				<span class="last-edited">Last edited: 12/06/23</span>
+			</div>
+
+			<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 6:00pm</span>
+			<p class="article-preview">
+				After a long day of exploration, I infiltrated myselft in a fancy all-inclusive hotel that
+				offered a gorgeous view of the valley.
 			</p>
 		</li>
 
