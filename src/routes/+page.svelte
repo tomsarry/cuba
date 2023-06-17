@@ -67,12 +67,15 @@
 			</p>
 		</li>
 
-		<!-- <li class="article">
-      <a href="/firefly">Firefly</a>
-      <span class="article-info">
-        Matanzas &middot; 04/05/2023 &middot; 9pm
-      </span>
-    </li> -->
+		<li class="article">
+			<div class="header">
+				<a href="/firefly" class="article-link">Firefly</a>
+				<span class="last-edited">Last edited: 17/06/23</span>
+			</div>
+
+			<span class="article-info">Matanzas &middot; 04/05/2023 &middot; 9:00pm</span>
+			<p class="article-preview">I met an insect that made me very happy.</p>
+		</li>
 	</ul>
 </div>
 
