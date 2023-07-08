@@ -6,7 +6,7 @@
 <div class="article-header">
 	<h2>Firefly</h2>
 
-	<span>Matanza &middot; 04/05/2023 &middot; 9pm</span>
+	<span>Matanzas &middot; 04/05/2023 &middot; 9pm</span>
 </div>
 
 <p class="indent">

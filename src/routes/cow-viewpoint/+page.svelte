@@ -13,7 +13,7 @@
 <div class="article-header">
 	<h2>Cow Viewpoint</h2>
 
-	<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 6:pm</span>
+	<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 6pm</span>
 </div>
 
 <p class="indent">
