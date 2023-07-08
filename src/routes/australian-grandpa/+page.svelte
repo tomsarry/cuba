@@ -18,7 +18,7 @@
 <div class="article-header">
 	<h2>Australian Grandpa</h2>
 
-	<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 12:00pm</span>
+	<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 12:pm</span>
 </div>
 
 <p class="indent">

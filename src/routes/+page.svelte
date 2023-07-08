@@ -46,7 +46,7 @@
 				<span class="last-edited">Last edited: 04/06/23</span>
 			</div>
 
-			<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 12:00pm</span>
+			<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 12:pm</span>
 			<p class="article-preview">
 				Upon my arrival at my second destination, I meet Antonio, an Australian man at least thrice
 				my age. We start an adventure in the countryside and he tells me about his very impressive
@@ -60,7 +60,7 @@
 				<span class="last-edited">Last edited: 12/06/23</span>
 			</div>
 
-			<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 6:00pm</span>
+			<span class="article-info">Vi&ntilde;ales &middot; 01/05/2023 &middot; 6:pm</span>
 			<p class="article-preview">
 				After a long day of exploration, I infiltrated myselft in a fancy all-inclusive hotel that
 				offered a gorgeous view of the valley.
@@ -73,7 +73,7 @@
 				<span class="last-edited">Last edited: 08/07/23</span>
 			</div>
 
-			<span class="article-info">Matanzas &middot; 04/05/2023 &middot; 1:00pm</span>
+			<span class="article-info">Matanzas &middot; 04/05/2023 &middot; 1:pm</span>
 			<p class="article-preview">Follow me for a day of street food in Matanzas.</p>
 		</li>
 
@@ -83,7 +83,7 @@
 				<span class="last-edited">Last edited: 17/06/23</span>
 			</div>
 
-			<span class="article-info">Matanzas &middot; 04/05/2023 &middot; 9:00pm</span>
+			<span class="article-info">Matanzas &middot; 04/05/2023 &middot; 9:pm</span>
 			<p class="article-preview">I met an insect that made me very happy.</p>
 		</li>
 	</ul>

@@ -12,7 +12,7 @@
 <div class="article-header">
 	<h2>Dos Pesos</h2>
 
-	<span>Matanza &middot; 04/05/2023 &middot; 1:00pm</span>
+	<span>Matanza &middot; 04/05/2023 &middot; 1:pm</span>
 </div>
 
 <p class="indent">
