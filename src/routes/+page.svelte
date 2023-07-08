@@ -69,6 +69,16 @@
 
 		<li class="article">
 			<div class="header">
+				<a href="/dos-pesos" class="article-link">Dos Pesos</a>
+				<span class="last-edited">Last edited: 08/07/23</span>
+			</div>
+
+			<span class="article-info">Matanzas &middot; 04/05/2023 &middot; 1:00pm</span>
+			<p class="article-preview">Follow me for a day of street food in Matanzas.</p>
+		</li>
+
+		<li class="article">
+			<div class="header">
 				<a href="/firefly" class="article-link">Firefly</a>
 				<span class="last-edited">Last edited: 17/06/23</span>
 			</div>
